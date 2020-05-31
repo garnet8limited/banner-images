@@ -1,5 +1,9 @@
 # GARNET8 Collaboration Clouds (G8CC) 
 
+# What problem does G8CC solve?
+
+Your Data Warehouses and [Data Hub](https://collaborationclouds.garnet8.co.uk/insight/next-gen-data-hub) have created new silos. These increases complexity in data architectures. That blocks the agility and value digital provides.
+
 [GARNET8 Collaboration Clouds (G8CC) supports distributed data sharing](https://collaborationclouds.garnet8.co.uk/).
 
 It provides a:
