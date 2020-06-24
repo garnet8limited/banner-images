@@ -1,10 +1,14 @@
-# GARNET8 Collaboration Clouds (G8CC) 
+# What is G8CC?
+
+G8CC provides a:
+- [Middleware platform](https://collaborationclouds.garnet8.co.uk/what-is-garnet8-collaboration-clouds-g8cc.html) that integrates databases. This provides a simple framework to embrace database silos.
+- [Distributed data sharing](https://collaborationclouds.garnet8.co.uk/) layer to manage secure access to view. These views get extended, joined-up and automated.
+
+G8CC allows you to easily manage near real-time data within and across traditional borders.
 
 # What problem does G8CC solve?
 
 Your Data Warehouses and [Data Hub](https://collaborationclouds.garnet8.co.uk/insight/next-gen-data-hub) have created new silos. These increases complexity in data architectures. That blocks the agility and value digital provides.
-
-[GARNET8 Collaboration Clouds (G8CC) supports distributed data sharing](https://collaborationclouds.garnet8.co.uk/).
 
 It provides a:
 - [Simple software platform](https://collaborationclouds.garnet8.co.uk/insight/Software-Framework-accelerating-your-digital-transformation) and [agile data-driven framework](https://collaborationclouds.garnet8.co.uk/insight/agile-data-driven-framework).
