@@ -2,7 +2,7 @@
 
 G8CC provides a:
 - [Middleware platform](https://collaborationclouds.garnet8.co.uk/what-is-garnet8-collaboration-clouds-g8cc.html) that integrates databases. This provides a simple framework to embrace database silos.
-- [Distributed data sharing](https://collaborationclouds.garnet8.co.uk/) layer to manage secure access to view. These views get extended, joined-up and automated.
+- [Distributed data sharing](https://collaborationclouds.garnet8.co.uk/) layer to manage secure access to views. These views get extended, joined-up and automated.
 
 G8CC allows you to easily manage near real-time data within and across traditional borders.
 
